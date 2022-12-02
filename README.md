@@ -15,7 +15,7 @@ Each list sort of in order of proficiency.
 
 - **Programming**<br> C++, JavaScript, Python, C, Java
 - **Shell scripting**<br> make, bash, awk, sed
-- **Web**<br> HTML, CSS, JSON, WebSockets, SQL, PHP, HTTPS
+- **Web**<br> HTML, CSS, JSON, Django, WebSockets, SQL, PHP, HTTPS
 - **Assembly**<br> x86_64, RISC-V
 
 <!--
