@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Naitzirch or Nait for short. I'm 22 years old and currently I'm a Computer Science student at LIACS.
+
+- 🔭 I’m currently working on a C- compiler
+- 🌱 I’m currently learning OpenGL
+- 💬 Ask me about compilers?
+- 📫 How to reach me: You can reach me by sending me an email at naitzirch@gmail.com or you can dm me on Discord Naitzirch#4239
+- 😄 Pronouns: He/him/his
+
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
