@@ -13,10 +13,16 @@ I'm Naitzirch or Nait for short. I'm 22 years old and currently I'm a Computer S
 ## 🏁🍇😀🔤Coding🔤❗️🍉
 Each list sort of in order of proficiency.
 
-- **Programming**<br> C++, JavaScript, Python, C, Java
-- **Shell scripting**<br> make, bash, awk, sed
-- **Web**<br> HTML, CSS, JSON, Django, WebSockets, SQL, PHP, HTTPS
-- **Assembly**<br> x86_64, RISC-V
+- **Programming**<br>
+  C++, JavaScript, Python, C, Java
+- **Shell scripting**<br>
+  make, bash, awk, sed
+- **Web**<br>
+  HTML, CSS, JSON, SQL, PHP<br>
+  Django, express, flask<br>
+  WebSockets, HTTPS
+- **Assembly**<br>
+  x86_64, RISC-V
 
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
