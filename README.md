@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm Naitzirch or Nait for short. I'm 22 years old and currently I'm a Computer Science student at LIACS.
 
-- 🔭 I’m currently working on a C- compiler
-- 🌱 I’m currently learning OpenGL
+- 🔭 I’m currently working on a screen sharing web app
+- 🌱 I’m currently learning WebRTC
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
   - Email: naitzirch@gmail.com
