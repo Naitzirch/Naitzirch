@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Naitzirch or Nait for short. I'm 22 years old and currently I'm a Computer Science student at LIACS.
+I'm Naitzirch or Nait for short. I'm 23 years old and currently I'm a Computer Science student at LIACS.
 
 - 🔭 I’m currently working on a screen sharing web app
 - 🌱 I’m currently learning WebRTC
