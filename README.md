@@ -25,6 +25,12 @@ Each list sort of in order of proficiency.
   x86_64, RISC-V
 
 <!--
+## Programming Competitions
+2022 LKP: 1st
+2022 BAPC: 34th
+2022 NWERC: 72th
+
+<!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
