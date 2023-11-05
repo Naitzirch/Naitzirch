@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Naitzirch or Nait for short. I'm a 23 year old Computer Science graduand and currently Physics undergraduate at TU Delft.
+I'm Naitzirch or Nait for short. I'm a 23 year old Computer Science graduate from LIACS and currently Physics undergraduate at TU Delft.
 
-- 🔭 I’m currently working on a minecraft map?
-- 🌱 I’m currently learning about minecraft datapacks
+- 🔭 I’m currently working on my studies
+- 🌱 I’m currently learning about electricity, magnetism and modern physics
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
   - Email: naitzirch@gmail.com
@@ -14,7 +14,7 @@ I'm Naitzirch or Nait for short. I'm a 23 year old Computer Science graduand and
 Each list sort of in order of proficiency.
 
 - **Programming**<br>
-  C++, JavaScript, Python, C, Java
+  C++, Python, JavaScript, C, Java
 - **Shell scripting**<br>
   make, bash, awk, sed
 - **Web**<br>
@@ -29,6 +29,7 @@ Each list sort of in order of proficiency.
 2022 LKP: 1st
 2022 BAPC: 34th
 2022 NWERC: 72th
+2023 DAPC: 63th
 
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
