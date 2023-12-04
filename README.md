@@ -1,11 +1,9 @@
 ## Hi there 👋
-I'm Naitzirch or Nait for short. I'm a 23 year old Computer Science graduate from LIACS and currently Physics undergraduate at TU Delft.
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning about electricity, magnetism and modern physics
+- 🌱 I’m currently learning about modern physics
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
-  - Email: naitzirch@gmail.com
   - Discord: Naitzirch#4239
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: The following title is real code
@@ -24,12 +22,14 @@ Each list sort of in order of proficiency.
 - **Assembly**<br>
   x86_64, RISC-V
 
-<!--
 ## Programming Competitions
-2022 LKP: 1st
-2022 BAPC: 34th
-2022 NWERC: 72th
-2023 DAPC: 63th
+2022 LKP: 1st    (Team members: 3/3)
+
+2022 BAPC: 34th  (Team members: 3/3)
+
+2022 NWERC: 72th (Team members: 2/3)
+
+2023 DAPC: 63th  (Team members: 1/3)
 
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
