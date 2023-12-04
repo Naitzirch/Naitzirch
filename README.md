@@ -23,14 +23,14 @@ Each list sort of in order of proficiency.
   x86_64, RISC-V
 
 ## Programming Competitions
-2022 LKP: 1st    (Team members: 3/3)
-
-2022 BAPC: 34th  (Team members: 3/3)
-
-2022 NWERC: 72th (Team members: 2/3)
 
 2023 DAPC: 63th  (Team members: 1/3)
 
+2022 NWERC: 72th (Team members: 2/3)
+
+2022 BAPC: 34th  (Team members: 3/3)
+
+2022 LKP: 1st    (Team members: 3/3)
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
