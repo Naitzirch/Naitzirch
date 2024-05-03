@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Electromagnetism
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
-  - Discord: Naitzirch#4239
+  - Discord: Naitzirch
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: The following title is real code
 
