@@ -18,7 +18,7 @@ Each list sort of in order of proficiency.
 - **Web**<br>
   HTML, CSS, JSON, SQL, PHP<br>
   Django, express, flask<br>
-  WebSockets, HTTPS
+  WebSockets, HTTPS, WebRTC
 - **Assembly**<br>
   x86_64, RISC-V
 
