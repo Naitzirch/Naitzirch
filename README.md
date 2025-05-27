@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning about Electronic Instrumentation
+- 🌱 I’m currently learning about Statistical Physics
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
   - Discord: Naitzirch
