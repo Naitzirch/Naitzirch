@@ -12,25 +12,30 @@
 Each list sort of in order of proficiency.
 
 - **Programming**<br>
-  C++, Python, JavaScript, C, Java
-- **Shell scripting**<br>
-  make, bash, awk, sed
+  C++, Python, JavaScript, C
 - **Web**<br>
-  HTML, CSS, JSON, SQL, PHP<br>
+  HTML, CSS, JSON, SQL<br>
   Django, express, flask<br>
   WebSockets, HTTPS, WebRTC
 - **Assembly**<br>
   x86_64, RISC-V
-
+  
+### Things I've touched upon or for which it's been a while since I used them
+- **Programming**<br>
+  PHP, Java
+- **Shell scripting**<br>
+  make, bash, awk, sed
+- **Web**<br>
+  Svelte
 ## Programming Competitions
 
-2023 DAPC: 63th  (Team members: 1/3)
+2023 DAPC: 63th
 
-2022 NWERC: 72th (Team members: 2/3)
+2022 NWERC: 72nd
 
-2022 BAPC: 34th  (Team members: 3/3)
+2022 BAPC: 34th
 
-2022 LKP: 1st    (Team members: 3/3)
+2022 LKP: 1st
 <!--
 **Naitzirch/Naitzirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
