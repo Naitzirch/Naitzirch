@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning about Statistical Physics
+- 🌱 I’m currently learning about Photonic Crystals
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
   - Discord: Naitzirch
