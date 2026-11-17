@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my studies
-- 🌱 I’m currently learning about Solid State Physics 
+- 🌱 I’m currently learning about Complex Networks and Quantum Algorithms
 - 💬 Ask me about compilers?
 - 📫 You can reach me at:
   - Discord: Naitzirch
